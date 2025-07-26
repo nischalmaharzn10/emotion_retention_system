@@ -1,0 +1,839 @@
+[
+    {
+        "input": "I am happy today",
+        "emotion_scores": {
+            "joy": 0.9707663059234619,
+            "surprise": 0.01584472320973873,
+            "sadness": 0.008973471820354462,
+            "neutral": 0.002507838886231184,
+            "anger": 0.00123615434858948,
+            "disgust": 0.00033667319803498685,
+            "fear": 0.00033472542418166995
+        },
+        "churn_risk": 0.2,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "I went hiking with my friends today",
+        "emotion_scores": {
+            "joy": 0.9561945796012878,
+            "surprise": 0.01925542578101158,
+            "neutral": 0.013643812388181686,
+            "sadness": 0.004532389342784882,
+            "fear": 0.003723050467669964,
+            "anger": 0.002013993449509144,
+            "disgust": 0.0006368127651512623
+        },
+        "churn_risk": 0.2,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "he is so stinky ",
+        "emotion_scores": {
+            "disgust": 0.5202116370201111,
+            "sadness": 0.34325501322746277,
+            "neutral": 0.06705901026725769,
+            "surprise": 0.04043276235461235,
+            "fear": 0.014893673360347748,
+            "joy": 0.007083031814545393,
+            "anger": 0.007064898032695055
+        },
+        "churn_risk": 0.26,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "i am very tired. but i had fun today at my friends\nbut also he was so annoying",
+        "emotion_scores": {
+            "joy": 0.935194194316864,
+            "sadness": 0.045190975069999695,
+            "anger": 0.012105526402592659,
+            "surprise": 0.003696724306792021,
+            "neutral": 0.0021108314394950867,
+            "disgust": 0.0012408666079863906,
+            "fear": 0.0004608808958437294
+        },
+        "churn_risk": 0.2,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "i am very tired. but i had fun today at my friends\nbut also he was so annoying",
+        "emotion_scores": {
+            "joy": 0.935194194316864,
+            "sadness": 0.045190975069999695,
+            "anger": 0.012105526402592659,
+            "surprise": 0.003696724306792021,
+            "neutral": 0.0021108314394950867,
+            "disgust": 0.0012408666079863906,
+            "fear": 0.0004608808958437294
+        },
+        "churn_risk": 0.09,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "i am sad right now",
+        "emotion_scores": {
+            "sadness": 0.9911156892776489,
+            "joy": 0.0030918505508452654,
+            "surprise": 0.002714777598157525,
+            "neutral": 0.0013377043651416898,
+            "anger": 0.0008066712180152535,
+            "fear": 0.0005888288142159581,
+            "disgust": 0.00034456656430847943
+        },
+        "churn_risk": 0.32,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "this feels good",
+        "emotion_scores": {
+            "joy": 0.9730952978134155,
+            "neutral": 0.015365175902843475,
+            "surprise": 0.005110627505928278,
+            "sadness": 0.0035701910965144634,
+            "disgust": 0.0013837910955771804,
+            "anger": 0.0011853193864226341,
+            "fear": 0.0002896295627579093
+        },
+        "churn_risk": 0.08,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "I just got a promotion at work!",
+        "emotion_scores": {
+            "surprise": 0.44585180282592773,
+            "joy": 0.3095625340938568,
+            "anger": 0.14275576174259186,
+            "neutral": 0.06849197298288345,
+            "disgust": 0.01608852483332157,
+            "sadness": 0.013678943738341331,
+            "fear": 0.0035704830661416054
+        },
+        "churn_risk": 0.13,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "I feel really down and lonely lately.",
+        "emotion_scores": {
+            "sadness": 0.9885461926460266,
+            "neutral": 0.00463070860132575,
+            "disgust": 0.0021320884115993977,
+            "fear": 0.0018997919978573918,
+            "surprise": 0.0011495556682348251,
+            "anger": 0.0008897042716853321,
+            "joy": 0.0007519382634200156
+        },
+        "churn_risk": 0.32,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "I\u2019m worried about the upcoming exams.",
+        "emotion_scores": {
+            "fear": 0.9736037850379944,
+            "sadness": 0.008787292055785656,
+            "surprise": 0.005653770640492439,
+            "neutral": 0.005368332378566265,
+            "joy": 0.0031040911562740803,
+            "anger": 0.002585663693025708,
+            "disgust": 0.0008970809867605567
+        },
+        "churn_risk": 0.28,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "I\u2019m worried about the upcoming exams.",
+        "emotion_scores": {
+            "fear": 0.9736037850379944,
+            "sadness": 0.008787292055785656,
+            "surprise": 0.005653770640492439,
+            "neutral": 0.005368332378566265,
+            "joy": 0.0031040911562740803,
+            "anger": 0.002585663693025708,
+            "disgust": 0.0008970809867605567
+        },
+        "churn_risk": 0.28,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "I\u2019m worried about the upcoming exams.",
+        "emotion_scores": {
+            "fear": 0.9736037850379944,
+            "sadness": 0.008787292055785656,
+            "surprise": 0.005653770640492439,
+            "neutral": 0.005368332378566265,
+            "joy": 0.0031040911562740803,
+            "anger": 0.002585663693025708,
+            "disgust": 0.0008970809867605567
+        },
+        "churn_risk": 0.28,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "I\u2019m worried about the upcoming exams.",
+        "emotion_scores": {
+            "fear": 0.9736037850379944,
+            "sadness": 0.008787292055785656,
+            "surprise": 0.005653770640492439,
+            "neutral": 0.005368332378566265,
+            "joy": 0.0031040911562740803,
+            "anger": 0.002585663693025708,
+            "disgust": 0.0008970809867605567
+        },
+        "churn_risk": 0.28,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "I\u2019m worried about the upcoming exams.",
+        "emotion_scores": {
+            "fear": 0.9736037850379944,
+            "sadness": 0.008787292055785656,
+            "surprise": 0.005653770640492439,
+            "neutral": 0.005368332378566265,
+            "joy": 0.0031040911562740803,
+            "anger": 0.002585663693025708,
+            "disgust": 0.0008970809867605567
+        },
+        "churn_risk": 0.28,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "I\u2019m worried about the upcoming exams.",
+        "emotion_scores": {
+            "fear": 0.9736037850379944,
+            "sadness": 0.008787292055785656,
+            "surprise": 0.005653770640492439,
+            "neutral": 0.005368332378566265,
+            "joy": 0.0031040911562740803,
+            "anger": 0.002585663693025708,
+            "disgust": 0.0008970809867605567
+        },
+        "churn_risk": 0.28,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "i did good",
+        "emotion_scores": {
+            "joy": 0.982470691204071,
+            "sadness": 0.007191968150436878,
+            "surprise": 0.005159979686141014,
+            "neutral": 0.0031028869561851025,
+            "anger": 0.001212405040860176,
+            "fear": 0.0007308768690563738,
+            "disgust": 0.00013122007658239454
+        },
+        "churn_risk": 0.08,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "i did good",
+        "emotion_scores": {
+            "joy": 0.982470691204071,
+            "sadness": 0.007191968150436878,
+            "surprise": 0.005159979686141014,
+            "neutral": 0.0031028869561851025,
+            "anger": 0.001212405040860176,
+            "fear": 0.0007308768690563738,
+            "disgust": 0.00013122007658239454
+        },
+        "churn_risk": 0.08,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "i did good",
+        "emotion_scores": {
+            "joy": 0.982470691204071,
+            "sadness": 0.007191968150436878,
+            "surprise": 0.005159979686141014,
+            "neutral": 0.0031028869561851025,
+            "anger": 0.001212405040860176,
+            "fear": 0.0007308768690563738,
+            "disgust": 0.00013122007658239454
+        },
+        "churn_risk": 0.08,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "i did good",
+        "emotion_scores": {
+            "joy": 0.982470691204071,
+            "sadness": 0.007191968150436878,
+            "surprise": 0.005159979686141014,
+            "neutral": 0.0031028869561851025,
+            "anger": 0.001212405040860176,
+            "fear": 0.0007308768690563738,
+            "disgust": 0.00013122007658239454
+        },
+        "churn_risk": 0.08,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "i did good",
+        "emotion_scores": {
+            "joy": 0.982470691204071,
+            "sadness": 0.007191968150436878,
+            "surprise": 0.005159979686141014,
+            "neutral": 0.0031028869561851025,
+            "anger": 0.001212405040860176,
+            "fear": 0.0007308768690563738,
+            "disgust": 0.00013122007658239454
+        },
+        "churn_risk": 0.08,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "i did good",
+        "emotion_scores": {
+            "joy": 0.982470691204071,
+            "sadness": 0.007191968150436878,
+            "surprise": 0.005159979686141014,
+            "neutral": 0.0031028869561851025,
+            "anger": 0.001212405040860176,
+            "fear": 0.0007308768690563738,
+            "disgust": 0.00013122007658239454
+        },
+        "churn_risk": 0.08,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "i did good",
+        "emotion_scores": {
+            "joy": 0.982470691204071,
+            "sadness": 0.007191968150436878,
+            "surprise": 0.005159979686141014,
+            "neutral": 0.0031028869561851025,
+            "anger": 0.001212405040860176,
+            "fear": 0.0007308768690563738,
+            "disgust": 0.00013122007658239454
+        },
+        "churn_risk": 0.08,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "i did good",
+        "emotion_scores": {
+            "joy": 0.982470691204071,
+            "sadness": 0.007191968150436878,
+            "surprise": 0.005159979686141014,
+            "neutral": 0.0031028869561851025,
+            "anger": 0.001212405040860176,
+            "fear": 0.0007308768690563738,
+            "disgust": 0.00013122007658239454
+        },
+        "churn_risk": 0.08,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "i did good",
+        "emotion_scores": {
+            "joy": 0.982470691204071,
+            "sadness": 0.007191968150436878,
+            "surprise": 0.005159979686141014,
+            "neutral": 0.0031028869561851025,
+            "anger": 0.001212405040860176,
+            "fear": 0.0007308768690563738,
+            "disgust": 0.00013122007658239454
+        },
+        "churn_risk": 0.08,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "i did good",
+        "emotion_scores": {
+            "joy": 0.982470691204071,
+            "sadness": 0.007191968150436878,
+            "surprise": 0.005159979686141014,
+            "neutral": 0.0031028869561851025,
+            "anger": 0.001212405040860176,
+            "fear": 0.0007308768690563738,
+            "disgust": 0.00013122007658239454
+        },
+        "churn_risk": 0.08,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "i did good",
+        "emotion_scores": {
+            "joy": 0.982470691204071,
+            "sadness": 0.007191968150436878,
+            "surprise": 0.005159979686141014,
+            "neutral": 0.0031028869561851025,
+            "anger": 0.001212405040860176,
+            "fear": 0.0007308768690563738,
+            "disgust": 0.00013122007658239454
+        },
+        "churn_risk": 0.08,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "i did good",
+        "emotion_scores": {
+            "joy": 0.982470691204071,
+            "sadness": 0.007191968150436878,
+            "surprise": 0.005159979686141014,
+            "neutral": 0.0031028869561851025,
+            "anger": 0.001212405040860176,
+            "fear": 0.0007308768690563738,
+            "disgust": 0.00013122007658239454
+        },
+        "churn_risk": 0.08,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "i did good",
+        "emotion_scores": {
+            "joy": 0.982470691204071,
+            "sadness": 0.007191968150436878,
+            "surprise": 0.005159979686141014,
+            "neutral": 0.0031028869561851025,
+            "anger": 0.001212405040860176,
+            "fear": 0.0007308768690563738,
+            "disgust": 0.00013122007658239454
+        },
+        "churn_risk": 0.08,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "i did good",
+        "emotion_scores": {
+            "joy": 0.982470691204071,
+            "sadness": 0.007191968150436878,
+            "surprise": 0.005159979686141014,
+            "neutral": 0.0031028869561851025,
+            "anger": 0.001212405040860176,
+            "fear": 0.0007308768690563738,
+            "disgust": 0.00013122007658239454
+        },
+        "churn_risk": 0.08,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "i did good",
+        "emotion_scores": {
+            "joy": 0.982470691204071,
+            "sadness": 0.007191968150436878,
+            "surprise": 0.005159979686141014,
+            "neutral": 0.0031028869561851025,
+            "anger": 0.001212405040860176,
+            "fear": 0.0007308768690563738,
+            "disgust": 0.00013122007658239454
+        },
+        "churn_risk": 0.08,
+        "recommendation": {
+            "message": "No action needed",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "I am happy today",
+        "emotion_scores": {
+            "joy": 0.9707663059234619,
+            "surprise": 0.01584472320973873,
+            "sadness": 0.008973471820354462,
+            "neutral": 0.002507838886231184,
+            "anger": 0.00123615434858948,
+            "disgust": 0.00033667319803498685,
+            "fear": 0.00033472542418166995
+        },
+        "history": [
+            {
+                "role": "user",
+                "content": "I am happy today"
+            },
+            {
+                "role": "ai",
+                "content": "Reinforce positive interaction"
+            }
+        ],
+        "churn_risk": 0.0,
+        "recommendation": {
+            "message": "Reinforce positive interaction",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "this is just too discusting",
+        "emotion_scores": {
+            "disgust": 0.884331464767456,
+            "anger": 0.0848584920167923,
+            "sadness": 0.01074471790343523,
+            "neutral": 0.009900490753352642,
+            "fear": 0.006887393072247505,
+            "surprise": 0.0027738159988075495,
+            "joy": 0.0005036693182773888
+        },
+        "history": [
+            {
+                "role": "user",
+                "content": "I am happy today"
+            },
+            {
+                "role": "ai",
+                "content": "Reinforce positive interaction"
+            },
+            {
+                "role": "user",
+                "content": "this is just too discusting"
+            },
+            {
+                "role": "ai",
+                "content": "Proactively check in and offer help"
+            }
+        ],
+        "churn_risk": 0.4901,
+        "recommendation": {
+            "message": "Proactively check in and offer help",
+            "code": "CHECKIN"
+        }
+    },
+    {
+        "input": "this is just too discusting",
+        "emotion_scores": {
+            "disgust": 0.884331464767456,
+            "anger": 0.0848584920167923,
+            "sadness": 0.01074471790343523,
+            "neutral": 0.009900490753352642,
+            "fear": 0.006887393072247505,
+            "surprise": 0.0027738159988075495,
+            "joy": 0.0005036693182773888
+        },
+        "history": [
+            {
+                "role": "user",
+                "content": "this is just too discusting"
+            },
+            {
+                "role": "ai",
+                "content": "Proactively check in and offer help"
+            }
+        ],
+        "churn_risk": 0.4901,
+        "recommendation": {
+            "message": "Proactively check in and offer help",
+            "code": "CHECKIN"
+        }
+    },
+    {
+        "input": "this is just too discusting",
+        "emotion_scores": {
+            "disgust": 0.884331464767456,
+            "anger": 0.0848584920167923,
+            "sadness": 0.01074471790343523,
+            "neutral": 0.009900490753352642,
+            "fear": 0.006887393072247505,
+            "surprise": 0.0027738159988075495,
+            "joy": 0.0005036693182773888
+        },
+        "churn_risk": 0.4901,
+        "recommendation": {
+            "message": "Proactively check in and offer help",
+            "code": "CHECKIN"
+        }
+    },
+    {
+        "input": "was fine in my opinion",
+        "emotion_scores": {
+            "anger": 0.47744423151016235,
+            "neutral": 0.27207350730895996,
+            "joy": 0.09577146917581558,
+            "sadness": 0.05993858352303505,
+            "disgust": 0.05888352543115616,
+            "fear": 0.027552202343940735,
+            "surprise": 0.008336459286510944
+        },
+        "churn_risk": 0.2179,
+        "recommendation": {
+            "message": "Monitor sentiment passively",
+            "code": "OBSERVE"
+        }
+    },
+    {
+        "input": "I am happy with the service.",
+        "emotion_scores": {
+            "joy": 0.9914306998252869,
+            "surprise": 0.003489735769107938,
+            "neutral": 0.0016250769840553403,
+            "sadness": 0.001435385551303625,
+            "anger": 0.0011280373437330127,
+            "disgust": 0.000613457930739969,
+            "fear": 0.00027764681726694107
+        },
+        "churn_risk": 0.0,
+        "recommendation": {
+            "message": "Reinforce positive interaction",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "This is so frustrating and disappointing.",
+        "emotion_scores": {
+            "sadness": 0.7889699935913086,
+            "anger": 0.07460299134254456,
+            "disgust": 0.06285062432289124,
+            "neutral": 0.04557125270366669,
+            "surprise": 0.019444795325398445,
+            "fear": 0.006646736990660429,
+            "joy": 0.0019135673064738512
+        },
+        "churn_risk": 0.4498,
+        "recommendation": {
+            "message": "Proactively check in and offer help",
+            "code": "CHECKIN"
+        }
+    },
+    {
+        "input": "I liked some parts, but the wait was annoying.",
+        "emotion_scores": {
+            "joy": 0.2790670096874237,
+            "neutral": 0.2557341456413269,
+            "disgust": 0.2524711489677429,
+            "anger": 0.10190659016370773,
+            "sadness": 0.0945553109049797,
+            "surprise": 0.013692023232579231,
+            "fear": 0.002573722740635276
+        },
+        "churn_risk": 0.0886,
+        "recommendation": {
+            "message": "Reinforce positive interaction",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "I liked some parts, but the wait was annoying.",
+        "emotion_scores": {
+            "joy": 0.2790670096874237,
+            "neutral": 0.2557341456413269,
+            "disgust": 0.2524711489677429,
+            "anger": 0.10190659016370773,
+            "sadness": 0.0945553109049797,
+            "surprise": 0.013692023232579231,
+            "fear": 0.002573722740635276
+        },
+        "churn_risk": 0.0886,
+        "recommendation": {
+            "message": "Reinforce positive interaction",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "\"\"",
+        "emotion_scores": {
+            "neutral": 0.5752204656600952,
+            "disgust": 0.15810377895832062,
+            "anger": 0.1123456135392189,
+            "fear": 0.05829322338104248,
+            "sadness": 0.052089277654886246,
+            "surprise": 0.03009573556482792,
+            "joy": 0.013851926662027836
+        },
+        "churn_risk": 0.0356,
+        "recommendation": {
+            "message": "Monitor sentiment passively",
+            "code": "OBSERVE"
+        }
+    },
+    {
+        "input": "asdf qwer zxcv\"",
+        "emotion_scores": {
+            "neutral": 0.8736169338226318,
+            "surprise": 0.07144805043935776,
+            "sadness": 0.01832686737179756,
+            "anger": 0.012419885955750942,
+            "fear": 0.008317092433571815,
+            "joy": 0.00828617624938488,
+            "disgust": 0.00758505379781127
+        },
+        "churn_risk": 0.0,
+        "recommendation": {
+            "message": "Monitor sentiment passively",
+            "code": "OBSERVE"
+        }
+    },
+    {
+        "input": "I\u2019m sad \ud83d\ude22 but hopeful \ud83d\ude0a",
+        "emotion_scores": {
+            "sadness": 0.9782763123512268,
+            "joy": 0.010036793537437916,
+            "neutral": 0.005950032267719507,
+            "surprise": 0.00304531236179173,
+            "disgust": 0.0011307660024613142,
+            "fear": 0.0009268901776522398,
+            "anger": 0.000633954128716141
+        },
+        "churn_risk": 0.4857,
+        "recommendation": {
+            "message": "Proactively check in and offer help",
+            "code": "CHECKIN"
+        }
+    },
+    {
+        "input": "I guess it's fine, though I expected a bit more",
+        "emotion_scores": {
+            "neutral": 0.8920420408248901,
+            "joy": 0.03172549977898598,
+            "sadness": 0.02600848861038685,
+            "surprise": 0.01726129651069641,
+            "anger": 0.014039157889783382,
+            "fear": 0.011164698749780655,
+            "disgust": 0.007758843246847391
+        },
+        "churn_risk": 0.0,
+        "recommendation": {
+            "message": "Monitor sentiment passively",
+            "code": "OBSERVE"
+        }
+    },
+    {
+        "input": "I love the features, but the experience has been inconsistent.",
+        "emotion_scores": {
+            "neutral": 0.3600640892982483,
+            "sadness": 0.35351741313934326,
+            "disgust": 0.13328920304775238,
+            "anger": 0.09700816124677658,
+            "joy": 0.0408749021589756,
+            "surprise": 0.01016908511519432,
+            "fear": 0.005077201873064041
+        },
+        "churn_risk": 0.1917,
+        "recommendation": {
+            "message": "Monitor sentiment passively",
+            "code": "OBSERVE"
+        }
+    },
+    {
+        "input": "I love the features, but the experience has been inconsistent.",
+        "emotion_scores": {
+            "neutral": 0.3600640892982483,
+            "sadness": 0.35351741313934326,
+            "disgust": 0.13328920304775238,
+            "anger": 0.09700816124677658,
+            "joy": 0.0408749021589756,
+            "surprise": 0.01016908511519432,
+            "fear": 0.005077201873064041
+        },
+        "churn_risk": 0.1917,
+        "recommendation": {
+            "message": "Monitor sentiment passively",
+            "code": "OBSERVE"
+        }
+    },
+    {
+        "input": "I liked some parts, but the wait was annoying.",
+        "emotion_scores": {
+            "joy": 0.2790670096874237,
+            "neutral": 0.2557341456413269,
+            "disgust": 0.2524711489677429,
+            "anger": 0.10190659016370773,
+            "sadness": 0.0945553109049797,
+            "surprise": 0.013692023232579231,
+            "fear": 0.002573722740635276
+        },
+        "churn_risk": 0.0886,
+        "recommendation": {
+            "message": "Reinforce positive interaction",
+            "code": "ENGAGE"
+        }
+    },
+    {
+        "input": "I liked some parts, but the wait was annoying.",
+        "emotion_scores": {
+            "joy": 0.2790670096874237,
+            "neutral": 0.2557341456413269,
+            "disgust": 0.2524711489677429,
+            "anger": 0.10190659016370773,
+            "sadness": 0.0945553109049797,
+            "surprise": 0.013692023232579231,
+            "fear": 0.002573722740635276
+        },
+        "churn_risk": 0.0886,
+        "recommendation": {
+            "message": "Reinforce positive interaction",
+            "code": "ENGAGE"
+        }
+    }
+]
